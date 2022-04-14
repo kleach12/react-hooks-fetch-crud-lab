@@ -34,6 +34,10 @@ button {
   transition: all 0.1s ease-in;
 }
 
+button:hover{
+  opacity: .8 ;
+}
+
 nav button {
   margin: 0.5rem 1rem;
 }
